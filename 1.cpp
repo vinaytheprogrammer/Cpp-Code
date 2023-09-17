@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// C++ STL 
+// C++ STL by vinay gupta
 int main()
 {
     string s="asdfghjhgfdsasdfhgfds";
